@@ -65,7 +65,8 @@ I waited for 49 days before doing anything else. Realistically I did not expect 
 ### Step three - Follow up email
 
 The automatic confirmation email did not come from a no-reply inbox; it comes from 'tell-us@qatarairways.com.qa' - so I sent a follow up.
-!(Screenshots/Screenshot 2025-09-12 at 14.06.54.png)
+![Screenshot 4](Screenshots/Screenshot%202025-09-12%20at%2014.06.54.png)
+
 
 ### Step four - Complain to the authorities
 
@@ -87,8 +88,7 @@ So instead I Googled *"phone number Qatar Airways 'insert country'"*
 
 Even if you did not join the privilege club; this is the only 'local number' I could find.
 
-!(Screenshots/Screenshot 2025-09-12 at 14.18.31.png)
-
+![Screenshot 5](Screenshots/Screenshot%202025-09-12%20at%2014.18.31.png)
 
 I spoke to a lovely woman who wanted to know my *'CRM'* and *'Case Reference'* from Step One.
 - She claimed to be from reservations and unable to immediately help. 
