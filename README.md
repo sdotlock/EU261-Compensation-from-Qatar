@@ -71,7 +71,7 @@ The automatic confirmation email did not come from a no-reply inbox; it comes fr
 
 I did not get a response to my follow up email. At exactly two months I complained to the national authorities. In my case, I was departing from Amsterdam - so I complained to the Dutch authorities. 
 
-==I'm a big believer in that everyone who waits for two months for the airline to reply, should absolutely complain to the authorities. It might end up being no help to you immediately, but it could help other travellers in the future.== 
+I'm a big believer in that everyone who waits for two months for the airline to reply, should absolutely complain to the authorities. It might end up being no help to you immediately, but it could help other travellers in the future. 
 
 [Here is a PDF of all the EU national authorities.](https://transport.ec.europa.eu/document/download/d7b5dd33-4083-4faa-8132-b6dc8b3a1c07_en?filename=2004_261_national_enforcement_bodies-2024-01-30.pdf)
 
@@ -87,7 +87,7 @@ So instead I Googled *"phone number Qatar Airways 'insert country'"*
 
 Even if you did not join the privilege club; this is the only 'local number' I could find.
 
-![[Screenshot 2025-09-12 at 14.18.31.png]]
+![[Screenshots/Screenshot 2025-09-12 at 14.18.31.png]]
 
 
 I spoke to a lovely woman who wanted to know my *'CRM'* and *'Case Reference'* from Step One.
@@ -105,7 +105,7 @@ Qatar sent me:
 - A PDF form to absolve them of any wrong doing.
 - A link to a secure webform to fill in.
 
-There is one giant caveat at this point. **==The form they send is only valid for a small 48 hour window from the time they send it.==** I hope you're not out camping when they send this! You also need access to a printer to manually sign the PDF agreement - digital signings are not acceptable.  I dont have a scanner, I simply took a clear photo of the form.
+There is one giant caveat at this point. **The form they send is only valid for a small 48 hour window from the time they send it.** I hope you're not out camping when they send this! You also need access to a printer to manually sign the PDF agreement - digital signings are not acceptable.  I dont have a scanner, I simply took a clear photo of the form.
 
 After filling everything in they advise that payment will be made within 2-4 weeks. A long time when you've already been waiting three months. 
 
