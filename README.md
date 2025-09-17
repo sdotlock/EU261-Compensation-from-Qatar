@@ -54,9 +54,9 @@ It is super important that you share your booking reference in this complaint! I
 
 I got confirmation email within 10 minutes from Qatar. Things felt promising at this point. **Hold onto that case reference and CRM number**
 
-!(Screenshots/Screenshot 2025-09-12 at 13.57.46.png)
-!(Screenshots/Screenshot 2025-09-12 at 13.58.37.png)
-!(Screenshots/Screenshot 2025-09-12 at 14.01.45.png)
+![Screenshot 1](Screenshots/Screenshot%202025-09-12%20at%2013.57.46.png)
+![Screenshot 2](Screenshots/Screenshot%202025-09-12%20at%2013.58.37.png)
+![Screenshot 3](Screenshots/Screenshot%202025-09-12%20at%2014.01.45.png)
 
 ### Step two - Wait
 
