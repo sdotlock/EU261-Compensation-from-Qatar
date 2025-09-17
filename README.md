@@ -14,7 +14,7 @@ In my case I was flying from Amsterdam to Auckland, New Zealand via Doha. My **f
 - AMS to Doha to Brisbane with Qatar, Brisbane to Auckland with Air New Zealand. 
 - AMS to Hong Kong with Cathay Pacific, Hong Kong to Auckland with Air New Zealand. 
 
-The trouble starts in Amsterdam, when Schiphol provided a broken air conditioning unit for the plane. The plane was at the correct gate but pushing 35 degrees inside the cabin. The aircraft needed to be moved with working air conditioning. 
+The trouble starts in Amsterdam, when Schiphol provided a broken air conditioning unit for the plane. The plane was at the correct gate but pushing 35 degrees inside the cabin. The aircraft needed to be moved to another gate with working air conditioning. 
 
 - This created a four hour delay in Amsterdam.
 - In Doha, I missed my two hour connection to Auckland
@@ -54,9 +54,9 @@ It is super important that you share your booking reference in this complaint! I
 
 I got confirmation email within 10 minutes from Qatar. Things felt promising at this point. **Hold onto that case reference and CRM number**
 
-### ![[Screenshot 2025-09-12 at 13.57.46.png]]
-![[Screenshot 2025-09-12 at 13.58.37.png]]
-![[Screenshot 2025-09-12 at 14.01.45.png]]
+!(Screenshots/Screenshot 2025-09-12 at 13.57.46.png)
+!(Screenshots/Screenshot 2025-09-12 at 13.58.37.png)
+!(Screenshots/Screenshot 2025-09-12 at 14.01.45.png)
 
 ### Step two - Wait
 
@@ -65,7 +65,7 @@ I waited for 49 days before doing anything else. Realistically I did not expect 
 ### Step three - Follow up email
 
 The automatic confirmation email did not come from a no-reply inbox; it comes from 'tell-us@qatarairways.com.qa' - so I sent a follow up.
-![[Screenshot 2025-09-12 at 14.06.54.png]]
+!(Screenshots/Screenshot 2025-09-12 at 14.06.54.png)
 
 ### Step four - Complain to the authorities
 
@@ -87,7 +87,7 @@ So instead I Googled *"phone number Qatar Airways 'insert country'"*
 
 Even if you did not join the privilege club; this is the only 'local number' I could find.
 
-![[Screenshots/Screenshot 2025-09-12 at 14.18.31.png]]
+!(Screenshots/Screenshot 2025-09-12 at 14.18.31.png)
 
 
 I spoke to a lovely woman who wanted to know my *'CRM'* and *'Case Reference'* from Step One.
