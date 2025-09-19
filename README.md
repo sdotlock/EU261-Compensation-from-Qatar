@@ -2,14 +2,14 @@
 
 ## About EU261
 
-EU261 is legislation designed to provide compensation to passengers in the event of *controllable* flight disruptions (e.g., if the crew is too hungover to fly). It covers issues such as last-minute cancellations, delays, and — heaven forbid — overbooked flights.
+EU261 is legislation designed to provide compensation to passengers in the event of *controllable* flight disruptions (e.g., if the crew is too hungover to fly). It covers issues such as last-minute cancellations, delays, and - heaven forbid - overbooked flights.
 
 I won’t explain in detail whether you’re eligible. If you’ve found this page, you’ve likely already checked. [If not, I suggest you look through this page](https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm).
 
 
 ## My Situation
 
-In my case, I was flying from Amsterdam to Auckland, New Zealand, via Doha. My **final destination** was Auckland — not Doha. Everything was booked on a single ticket, and you can have multiple airlines on a *single ticket*.
+In my case, I was flying from Amsterdam to Auckland, New Zealand, via Doha. My **final destination** was Auckland - not Doha. Everything was booked on a single ticket, and you can have multiple airlines on a *single ticket*.
 
 **Single ticket examples:**
 - AMS → Doha → Brisbane with Qatar, then Brisbane → Auckland with Air New Zealand  
@@ -27,11 +27,11 @@ It took a total of 88 days from my first EU261 complaint to receiving my €600 
 
 ## My Thoughts on the Process
 
-- **The process feels deliberately vague.** There should be a dedicated EU261 claims flow provided by Qatar. Step one is to “submit feedback” via a web form — but I’m not submitting feedback; I’m exercising my rights as a passenger to compensation for a controllable delay.  
+- **The process feels deliberately vague.** There should be a dedicated EU261 claims flow provided by Qatar. Step one is to “submit feedback” via a web form - but I’m not submitting feedback; I’m exercising my rights as a passenger to compensation for a controllable delay.  
 - **The process takes too long.** It took 88 days from when I submitted the form, including a complaint to the national authorities, a follow-up email, and finally a follow-up phone call to get it resolved.  
   - If I hadn’t followed up by phone, I suspect I would still be waiting for Qatar to respond.  
 - **I could have made the process faster by calling earlier.** That’s when things actually started moving.  
-- That said, **I shouldn’t have to chase Qatar for updates** — there should be clear systems and timelines for handling EU261 claims, without the need for multiple follow-ups over 88 days.  
+- That said, **I shouldn’t have to chase Qatar for updates** - there should be clear systems and timelines for handling EU261 claims, without the need for multiple follow-ups over 88 days.  
 - I wish the complaint to the national authorities had been more personally helpful, rather than focused mainly on collecting large numbers of complaints. This approach makes it easy for airlines to ignore individual or small-scale cases.
 
 ## Steps for compensation
@@ -47,7 +47,7 @@ And feel confident that you meet the conditions for EU261 compensation - [Check 
 At the moment, there’s no dedicated **EU261 complaint form**. Qatar Airways has an *EU Passenger Rights* web page, but it only links to a help page where you can submit feedback.
 
 - Visit the [EU Air Passenger Rights](https://www.qatarairways.com/en/legal/eu-air-passenger-rights.html) page.  
-- Submit feedback — include your booking reference (PNR) here.
+- Submit feedback - include your booking reference (PNR) here.
 
 After that, you’ll see options like:  
 - **Share your feedback with us**  
@@ -55,7 +55,7 @@ After that, you’ll see options like:
 
 It’s **very important** to include your booking reference in the complaint! While they can probably find your details by email or name, adding your PNR makes it much easier for them to locate your booking. *(Your booking reference is also called a **PNR**.)*
 
-I received a confirmation email from Qatar within 10 minutes. Things felt promising at this point — **hold onto that case reference and CRM number**.
+I received a confirmation email from Qatar within 10 minutes. Things felt promising at this point - **hold onto that case reference and CRM number**.
 
 ![Screenshot 1](Screenshots/Screenshot%202025-09-12%20at%2013.57.46.png)
 ![Screenshot 2](Screenshots/Screenshot%202025-09-12%20at%2013.58.37.png)
@@ -79,11 +79,11 @@ I strongly believe that anyone who has waited two months for an airline to reply
 
 [Here is a PDF listing all EU national authorities.](https://transport.ec.europa.eu/document/download/d7b5dd33-4083-4faa-8132-b6dc8b3a1c07_en?filename=2004_261_national_enforcement_bodies-2024-01-30.pdf)
 
-The Dutch authorities don’t investigate individual cases but will review an airline’s practices if they receive enough “signals” — i.e., complaints — within a (not publicly disclosed) short period.
+The Dutch authorities don’t investigate individual cases but will review an airline’s practices if they receive enough “signals” - i.e., complaints - within a (not publicly disclosed) short period.
 
 ### Step Five – Call Your Local Qatar Airways Phone Number
 
-I tried contacting Qatar Airways via WhatsApp support, but they weren’t able to help much. Every time I reached out, I was either told to check online or to “wait,” even though I’d already been waiting nearly three months. They also gave me a Qatari phone number (+974-40230000) for their customer service team — but with the demise of Skype, I haven’t figured out a way to call international numbers for free (or even cheaply).
+I tried contacting Qatar Airways via WhatsApp support, but they weren’t able to help much. Every time I reached out, I was either told to check online or to “wait,” even though I’d already been waiting nearly three months. They also gave me a Qatari phone number (+974-40230000) for their customer service team - but with the demise of Skype, I haven’t figured out a way to call international numbers for free (or even cheaply).
 
 Instead, I Googled: *“phone number Qatar Airways [insert country]”*  
 - Schiphol Airport listed one phone number.  
@@ -107,9 +107,9 @@ Qatar sent me:
 - A PDF form to absolve them of any wrongdoing  
 - A link to a secure web form to complete
 
-There’s one major caveat at this stage: **the form they send is only valid for 48 hours from the time it’s issued.** I hope you’re not off camping when it arrives! You’ll also need access to a printer to manually sign the PDF — digital signatures aren’t accepted. I don’t own a scanner, so I simply took a clear photo of the signed form.
+There’s one major caveat at this stage: **the form they send is only valid for 48 hours from the time it’s issued.** I hope you’re not off camping when it arrives! You’ll also need access to a printer to manually sign the PDF - digital signatures aren’t accepted. I don’t own a scanner, so I simply took a clear photo of the signed form.
 
-After submitting everything, they advised that payment would be made within 2–4 weeks — a long time when you’ve already been waiting three months.
+After submitting everything, they advised that payment would be made within 2–4 weeks - a long time when you’ve already been waiting three months.
 
 Then it was another wait to see if I’d actually receive my €600.
 
